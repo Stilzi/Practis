@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="COMPUTERModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="DISTRIBUTOR">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NAME" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ADDRESS" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="PHONE" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="COMPUTEREntities7" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="DISTRIBUTOR" EntityType="Self.DISTRIBUTOR" />
+    <EntitySet Name="CONSIGNMENT" EntityType="COMPUTERModel.CONSIGNMENT" />
+    <EntitySet Name="MANUFACTURER" EntityType="COMPUTERModel.MANUFACTURER" />
+    <EntitySet Name="SPECIFICATIONS" EntityType="COMPUTERModel.SPECIFICATIONS" />
+    <AssociationSet Name="FK_MANUFACTURER_CONSIGMENT" Association="COMPUTERModel.FK_MANUFACTURER_CONSIGMENT">
+      <End Role="CONSIGNMENT" EntitySet="CONSIGNMENT" />
+      <End Role="MANUFACTURER" EntitySet="MANUFACTURER" />
+    </AssociationSet>
+    <AssociationSet Name="FK_MANUFACTURER_SPECIFICATIONS" Association="COMPUTERModel.FK_MANUFACTURER_SPECIFICATIONS">
+      <End Role="SPECIFICATIONS" EntitySet="SPECIFICATIONS" />
+      <End Role="MANUFACTURER" EntitySet="MANUFACTURER" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="CONSIGNMENT">
+    <Key>
+      <PropertyRef Name="IDCONSIGMENT" />
+    </Key>
+    <Property Name="IDCONSIGMENT" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="BATCHSIZE" Type="Int32" Nullable="false" />
+    <Property Name="PRICE" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="MANUFACTURER" Relationship="COMPUTERModel.FK_MANUFACTURER_CONSIGMENT" FromRole="CONSIGNMENT" ToRole="MANUFACTURER" />
+  </EntityType>
+  <EntityType Name="MANUFACTURER">
+    <Key>
+      <PropertyRef Name="IDMANUFACTURER" />
+    </Key>
+    <Property Name="IDMANUFACTURER" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NAME" Type="String" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="ADDRESS" Type="String" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="SPECIFICATIONSID" Type="Int32" />
+    <Property Name="CONSIGMENTID" Type="Int32" />
+    <NavigationProperty Name="CONSIGNMENT" Relationship="COMPUTERModel.FK_MANUFACTURER_CONSIGMENT" FromRole="MANUFACTURER" ToRole="CONSIGNMENT" />
+    <NavigationProperty Name="SPECIFICATIONS" Relationship="COMPUTERModel.FK_MANUFACTURER_SPECIFICATIONS" FromRole="MANUFACTURER" ToRole="SPECIFICATIONS" />
+  </EntityType>
+  <EntityType Name="SPECIFICATIONS">
+    <Key>
+      <PropertyRef Name="MANUFACTURERID" />
+    </Key>
+    <Property Name="MANUFACTURERID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="MODEL" Type="String" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="CPU" Type="String" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="FREQUENCY" Type="Int32" Nullable="false" />
+    <Property Name="RAM" Type="Int32" Nullable="false" />
+    <Property Name="HardDiskSpace" Type="Int32" Nullable="false" />
+    <Property Name="RELEASEdATE" Type="DateTime" Nullable="false" Precision="3" />
+    <NavigationProperty Name="MANUFACTURER" Relationship="COMPUTERModel.FK_MANUFACTURER_SPECIFICATIONS" FromRole="SPECIFICATIONS" ToRole="MANUFACTURER" />
+  </EntityType>
+  <Association Name="FK_MANUFACTURER_CONSIGMENT">
+    <End Type="COMPUTERModel.CONSIGNMENT" Role="CONSIGNMENT" Multiplicity="0..1" />
+    <End Type="COMPUTERModel.MANUFACTURER" Role="MANUFACTURER" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CONSIGNMENT">
+        <PropertyRef Name="IDCONSIGMENT" />
+      </Principal>
+      <Dependent Role="MANUFACTURER">
+        <PropertyRef Name="CONSIGMENTID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_MANUFACTURER_SPECIFICATIONS">
+    <End Type="COMPUTERModel.SPECIFICATIONS" Role="SPECIFICATIONS" Multiplicity="0..1" />
+    <End Type="COMPUTERModel.MANUFACTURER" Role="MANUFACTURER" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SPECIFICATIONS">
+        <PropertyRef Name="MANUFACTURERID" />
+      </Principal>
+      <Dependent Role="MANUFACTURER">
+        <PropertyRef Name="SPECIFICATIONSID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

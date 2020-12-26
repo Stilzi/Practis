@@ -1,0 +1,21 @@
+﻿<Window x:Class="COMPUTERMANUFACTURER.Window8"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:COMPUTERMANUFACTURER"
+        mc:Ignorable="d"
+        Title="Window8" Height="450" Width="800">
+    <ScrollViewer>
+        <DataGrid x:Name="SPECIF_DATAGRID" x:FieldModifier="public" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Модель"                        Width="0.5*" Binding="{Binding MODEL}"/>
+                <DataGridTextColumn Header="Процессор"                     Width="0.5*" Binding="{Binding CPU}"/>
+                <DataGridTextColumn Header="Тактовая частота"              Width="0.5*" Binding="{Binding FREQUENCY}"/>
+                <DataGridTextColumn Header="ОЗУ"                           Width="0.5*" Binding="{Binding RAM}"/>
+                <DataGridTextColumn Header="Объем жесткого диска"          Width="0.6*" Binding="{Binding HardDiskSpace}"/>
+                <DataGridTextColumn Header="Дата выпуска"                  Width="0.5*" Binding="{Binding RELEASEdATE}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </ScrollViewer>
+</Window>

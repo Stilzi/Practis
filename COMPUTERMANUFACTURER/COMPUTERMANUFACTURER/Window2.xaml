@@ -1,0 +1,27 @@
+﻿<Window x:Class="COMPUTERMANUFACTURER.Window2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:COMPUTERMANUFACTURER"
+        mc:Ignorable="d"
+        Title="Window2" Height="825.015" Width="800">
+    <Grid>
+        <StackPanel Background="LightGoldenrodYellow">
+                <Label      Content="Процессор"            FontSize="15" HorizontalAlignment="Center" Margin="10"/>
+                <TextBox    x:Name="INSERT_CPU"            Width="500" Height="50" Margin="10"/>
+                <Label      Content="Тактовая частота"     FontSize="15" HorizontalAlignment="Center"/>
+                <TextBox    x:Name="INSERT_FREQUENCY"      Width="500" Height="50" Margin="10"/>
+                <Label      Content="ОЗУ"                  FontSize="15" HorizontalAlignment="Center"/>
+                <TextBox    x:Name="INSERT_RAM"            Width="500" Height="50" Margin="10"/>
+                <Label      Content="Объем жесткого диска" FontSize="15" HorizontalAlignment="Center"/>
+                <TextBox    x:Name="INSERT_HardDiskSpace"  Width="500" Height="50" Margin="10"/>
+                <Label      Content="Дата производства"    FontSize="15" HorizontalAlignment="Center"/>
+                <DatePicker Width="500"                    Height="50" Name="PickrerDate"/>
+                <Label      Content="Модель"               FontSize="15" HorizontalAlignment="Center" Margin="10"/>
+                <TextBox    x:Name="INSERT_MODEL"          Width="500" Height="50" Margin="10"/>
+                <Button     x:Name="INSERT_COMPUTER"       Width="500" Height="50" Margin="20" Content="Ввод" Click="INSERT_COMPUTER_Click"/>
+                <Button     x:Name="VIEW_COMP"             Width="500" Height="50" Margin="10" Content="Открыть таблицу" Click="VIEW_COMP_Click"/>
+            </StackPanel>
+    </Grid>
+</Window>

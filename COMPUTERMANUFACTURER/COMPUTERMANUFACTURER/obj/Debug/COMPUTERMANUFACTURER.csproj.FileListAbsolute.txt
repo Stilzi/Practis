@@ -1,0 +1,138 @@
+C:\Users\Пользователь\source\repos\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\bin\Debug\COMPUTERMANUFACTURER.exe.config
+C:\Users\Пользователь\source\repos\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\bin\Debug\COMPUTERMANUFACTURER.exe
+C:\Users\Пользователь\source\repos\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\bin\Debug\COMPUTERMANUFACTURER.pdb
+C:\Users\Пользователь\source\repos\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\bin\Debug\EntityFramework.dll
+C:\Users\Пользователь\source\repos\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Пользователь\source\repos\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\bin\Debug\EntityFramework.xml
+C:\Users\Пользователь\source\repos\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Пользователь\source\repos\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Пользователь\source\repos\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\COMPUTERMANUFACTURER.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\MainWindow.g.cs
+C:\Users\Пользователь\source\repos\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\Window1.g.cs
+C:\Users\Пользователь\source\repos\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\App.g.cs
+C:\Users\Пользователь\source\repos\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\COMPUTERMANUFACTURER_Content.g.cs
+C:\Users\Пользователь\source\repos\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\COMPUTERMANUFACTURER_MarkupCompile.cache
+C:\Users\Пользователь\source\repos\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\COMPUTERMANUFACTURER_MarkupCompile.lref
+C:\Users\Пользователь\source\repos\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\MainWindow.baml
+C:\Users\Пользователь\source\repos\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\Window1.baml
+C:\Users\Пользователь\source\repos\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\COMPUTERMANUFACTURER.g.resources
+C:\Users\Пользователь\source\repos\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\COMPUTERMANUFACTURER.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\COMPUTERMANUFACTURER.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\COMPUTERMANUFACTURER.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\COMPUTERMANUFACTURER.csproj.CopyComplete
+C:\Users\Пользователь\source\repos\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\COMPUTERMANUFACTURER.exe
+C:\Users\Пользователь\source\repos\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\COMPUTERMANUFACTURER.pdb
+C:\Users\Пользователь\source\repos\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\Window2.g.cs
+C:\Users\Пользователь\source\repos\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\Window2.baml
+C:\Users\Пользователь\source\repos\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\Window3.g.cs
+C:\Users\Пользователь\source\repos\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\Window4.g.cs
+C:\Users\Пользователь\source\repos\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\Window3.baml
+C:\Users\Пользователь\source\repos\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\Window4.baml
+F:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\bin\Debug\COMPUTERMANUFACTURER.exe.config
+F:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\bin\Debug\COMPUTERMANUFACTURER.exe
+F:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\bin\Debug\COMPUTERMANUFACTURER.pdb
+F:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\bin\Debug\EntityFramework.dll
+F:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\bin\Debug\EntityFramework.SqlServer.dll
+F:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\bin\Debug\EntityFramework.xml
+F:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\bin\Debug\EntityFramework.SqlServer.xml
+F:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\bin\Debug\ru\EntityFramework.resources.dll
+F:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\COMPUTERMANUFACTURER.csprojAssemblyReference.cache
+F:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\MainWindow.g.cs
+F:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\Window1.g.cs
+F:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\Window2.g.cs
+F:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\Window3.g.cs
+F:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\Window4.g.cs
+F:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\App.g.cs
+F:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\COMPUTERMANUFACTURER_Content.g.cs
+F:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\COMPUTERMANUFACTURER_MarkupCompile.cache
+F:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\COMPUTERMANUFACTURER_MarkupCompile.lref
+F:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\MainWindow.baml
+F:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\Window1.baml
+F:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\Window2.baml
+F:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\Window3.baml
+F:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\Window4.baml
+F:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\COMPUTERMANUFACTURER.g.resources
+F:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\COMPUTERMANUFACTURER.Properties.Resources.resources
+F:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\COMPUTERMANUFACTURER.csproj.GenerateResource.cache
+F:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\COMPUTERMANUFACTURER.csproj.CoreCompileInputs.cache
+F:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\COMPUTERMANUFACTURER.csproj.CopyComplete
+F:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\COMPUTERMANUFACTURER.exe
+F:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\COMPUTERMANUFACTURER.pdb
+F:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\Window5.g.cs
+F:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\Window5.baml
+C:\Users\Admin\Desktop\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\bin\Debug\COMPUTERMANUFACTURER.exe.config
+C:\Users\Admin\Desktop\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\bin\Debug\COMPUTERMANUFACTURER.exe
+C:\Users\Admin\Desktop\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\bin\Debug\COMPUTERMANUFACTURER.pdb
+C:\Users\Admin\Desktop\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Admin\Desktop\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\COMPUTERMANUFACTURER.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\Window1.g.cs
+C:\Users\Admin\Desktop\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\Window2.g.cs
+C:\Users\Admin\Desktop\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\Window3.g.cs
+C:\Users\Admin\Desktop\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\Window4.g.cs
+C:\Users\Admin\Desktop\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\Window5.g.cs
+C:\Users\Admin\Desktop\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\COMPUTERMANUFACTURER_Content.g.cs
+C:\Users\Admin\Desktop\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\COMPUTERMANUFACTURER_MarkupCompile.cache
+C:\Users\Admin\Desktop\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\COMPUTERMANUFACTURER_MarkupCompile.lref
+C:\Users\Admin\Desktop\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\Window1.baml
+C:\Users\Admin\Desktop\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\Window2.baml
+C:\Users\Admin\Desktop\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\Window3.baml
+C:\Users\Admin\Desktop\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\Window4.baml
+C:\Users\Admin\Desktop\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\Window5.baml
+C:\Users\Admin\Desktop\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\COMPUTERMANUFACTURER.g.resources
+C:\Users\Admin\Desktop\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\COMPUTERMANUFACTURER.Properties.Resources.resources
+C:\Users\Admin\Desktop\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\COMPUTERMANUFACTURER.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\COMPUTERMANUFACTURER.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\COMPUTERMANUFACTURER.csproj.CopyComplete
+C:\Users\Admin\Desktop\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\COMPUTERMANUFACTURER.exe
+C:\Users\Admin\Desktop\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\COMPUTERMANUFACTURER.pdb
+C:\Users\Admin\Desktop\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\Window6.g.cs
+C:\Users\Admin\Desktop\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\Window6.baml
+C:\Users\Admin\Desktop\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\Window7.g.cs
+C:\Users\Admin\Desktop\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\Window8.g.cs
+C:\Users\Admin\Desktop\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\Window7.baml
+C:\Users\Admin\Desktop\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\Window8.baml
+C:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\bin\Debug\COMPUTERMANUFACTURER.exe.config
+C:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\bin\Debug\COMPUTERMANUFACTURER.exe
+C:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\bin\Debug\COMPUTERMANUFACTURER.pdb
+C:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\bin\Debug\EntityFramework.dll
+C:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\bin\Debug\EntityFramework.SqlServer.dll
+C:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\bin\Debug\EntityFramework.xml
+C:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\bin\Debug\EntityFramework.SqlServer.xml
+C:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\bin\Debug\ru\EntityFramework.resources.dll
+C:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\COMPUTERMANUFACTURER.csprojAssemblyReference.cache
+C:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\MainWindow.g.cs
+C:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\Window1.g.cs
+C:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\Window2.g.cs
+C:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\Window3.g.cs
+C:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\Window4.g.cs
+C:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\Window5.g.cs
+C:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\Window6.g.cs
+C:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\Window7.g.cs
+C:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\Window8.g.cs
+C:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\App.g.cs
+C:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\COMPUTERMANUFACTURER_Content.g.cs
+C:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\COMPUTERMANUFACTURER_MarkupCompile.cache
+C:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\COMPUTERMANUFACTURER_MarkupCompile.lref
+C:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\MainWindow.baml
+C:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\Window1.baml
+C:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\Window2.baml
+C:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\Window3.baml
+C:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\Window4.baml
+C:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\Window5.baml
+C:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\Window6.baml
+C:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\Window7.baml
+C:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\Window8.baml
+C:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\COMPUTERMANUFACTURER.g.resources
+C:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\COMPUTERMANUFACTURER.Properties.Resources.resources
+C:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\COMPUTERMANUFACTURER.csproj.GenerateResource.cache
+C:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\COMPUTERMANUFACTURER.csproj.CoreCompileInputs.cache
+C:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\COMPUTERMANUFACTURER.csproj.CopyComplete
+C:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\COMPUTERMANUFACTURER.exe
+C:\проекты\производственная практика\COMPUTERMANUFACTURER\COMPUTERMANUFACTURER\obj\Debug\COMPUTERMANUFACTURER.pdb
